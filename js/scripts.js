@@ -1,18 +1,19 @@
 // dl-menu options
 $(function() {
-  $( '#dl-menu' ).dlmenu({
-    animationClasses : { classin : 'dl-animate-in', classout : 'dl-animate-out' }
-  });
+    $( '#dl-menu' ).dlmenu({
+        animationClasses : { classin : 'dl-animate-in', classout : 'dl-animate-out' }
+    });
 });
 // Need this to show animation when go back in browser
 window.onunload = function() {};
 
-// Add lightbox class to all image links
+// Add lightbox class to all image & video links
 $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+$("a[href^='https://drive.google.com/file/d']").addClass("video-popup");
 
 // FitVids options
 $(function() {
-  $(".post-body").fitVids({ customSelector: "iframe[src^='https://drive.google.com']"});
+    $(".post-body").fitVids({ customSelector: "iframe[src^='https://drive.google.com/file/d']"});
 });
 
 // All others
@@ -39,19 +40,27 @@ $(document).ready(function() {
         goupSpeed: 'normal'
     });
 	$('.image-popup').magnificPopup({
-    type: 'image',
-    tLoading: 'Loading image #%curr%...',
-    gallery: {
-      enabled: true,
-      navigateByImgClick: true,
-      preload: [0,1] // Will preload 0 - before current, and 1 after the current image
-    },
-    image: {
-      tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
-    },
-    removalDelay: 300, // Delay in milliseconds before popup is removed
-    // Class that is added to body when popup is open.
-    // make it unique to apply your CSS animations just to this exact popup
-    mainClass: 'mfp-fade'
-  });
+        type: 'image',
+        tLoading: 'Loading image #%curr%...',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+        },
+        image: {
+            tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
+        },
+        removalDelay: 300, // Delay in milliseconds before popup is removed
+        // Class that is added to body when popup is open.
+        // make it unique to apply your CSS animations just to this exact popup
+        mainClass: 'mfp-fade'
+    });
+    $('.video-popup').magnificPopup({
+        disableOn: 700,
+        type: 'iframe',
+        mainClass: 'mfp-fade',
+        removalDelay: 160,
+        preloader: false,
+        fixedContentPos: false
+    });
 });
