@@ -4,6 +4,23 @@ title: "test Gallary"
 date: 2018-08-02
 ---
 
+<div class="post-image">
+    <p class="post-image-caption">
+        姜禹安 Chiang Yu An<br>
+        landy51223@yahoo.com.tw
+    </p>
+    <p class="post-image-caption">
+        Software:<br>
+        Adobe Photoshop<br>
+        Illustrator<br>
+        PhotoImpact<br>
+        SAI+speedpaint<br>
+    </p><br>
+    <a href="/img/profile-picture.jpg"><img src="/img/profile-picture.jpg"></a>
+</div>
+
+---
+
 <div class="post-image post-image--split">
 	<a href="https://drive.google.com/file/d/1yZ2ag2V_OlYlP8gJtrhfwUD6DfE_Jk-_/preview"><img src="" alt="浪貓故事"></a>
 	<a href="https://drive.google.com/file/d/1pH0fI_Ar2tqsCYehTZs-DoQc1hYaO4yE/preview"><img src="" alt="清明寒食"></a>
