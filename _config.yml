@@ -9,10 +9,10 @@
 title: GINGER
 author: GINGER
 author_link: https://brainginger.github.io
-author_description: 我是Ginger
+author_description: Ginger
 email: landy51223@yahoo.com.tw
 description: > # this means to ignore newlines until "baseurl:"
-  我是Ginger
+  Ginger's resume
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brainginger.github.io/" # the base hostname & protocol for your site
 

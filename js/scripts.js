@@ -1,9 +1,9 @@
 // dl-menu options
-$(function() {
-    $( '#dl-menu' ).dlmenu({
-        animationClasses : { classin : 'dl-animate-in', classout : 'dl-animate-out' }
-    });
-});
+// $(function() {
+//     $( '#dl-menu' ).dlmenu({
+//         animationClasses : { classin : 'dl-animate-in', classout : 'dl-animate-out' }
+//     });
+// });
 // Need this to show animation when go back in browser
 window.onunload = function() {};
 
@@ -12,9 +12,9 @@ $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gi
 $("a[href^='https://drive.google.com/file/d']").addClass("video-popup");
 
 // FitVids options
-$(function() {
-    $(".post-body").fitVids({ customSelector: "iframe[src^='https://drive.google.com/file/d']"});
-});
+// $(function() {
+//     $(".post-body").fitVids({ customSelector: "iframe[src^='https://drive.google.com/file/d']"});
+// });
 
 // All others
 $(document).ready(function() {
