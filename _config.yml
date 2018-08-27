@@ -28,17 +28,17 @@ typekit_kit_id: kwf5dox
 # Build settings
 gems: [jekyll-paginate]
 markdown: kramdown
-highlighter:        rouge
-kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
+# highlighter:        rouge
+# kramdown:
+#   auto_ids:         true
+#   footnote_nr:      1
+#   entity_output:    as_char
+#   toc_levels:       1..6
+#   enable_coderay:   false
 permalink: pretty
 
 # Pagination
-paginate: 5
+paginate: 1
 
 # Sass
 sass:
