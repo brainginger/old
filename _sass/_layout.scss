@@ -53,7 +53,7 @@
 
     a {
         // Overwrite default link color
-        color: #222;
+        color: $text-color;
 
         &:hover {
             // ... but allow the hover color to work as normal

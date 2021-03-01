@@ -9,7 +9,8 @@ window.onunload = function() {};
 
 // Add lightbox class to all image & video links
 $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
-$("a[href^='https://drive.google.com/file/d']").addClass("video-popup");
+// $("a[href^='https://drive.google.com/file/d']").addClass("video-popup");
+$("a[href^='https://www.youtube']").addClass("video-popup");
 
 // FitVids options
 // $(function() {

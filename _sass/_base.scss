@@ -32,6 +32,12 @@ body {
 }
 
 a {
+    // Overwrite default link color
     text-decoration: none;
-    color: #443E40;
+    color: $text-color;
+
+    &:hover {
+        // ... but allow the hover color to work as normal
+        color: $hover-color !important;
+    }
 }

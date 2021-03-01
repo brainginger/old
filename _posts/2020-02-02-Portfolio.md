@@ -30,6 +30,64 @@ location: Taipei, Taiwan
     <a href="/img/digital-drawing/wo.jpg"><img src="/img/optimized/wo.jpg"></a>
 </div>
 
+<h1 class="post-paragraph" id="visual_design"><a href="#visual_design">Visual Design</a></h1>
+
+<div class="post-image">
+    <a href="/img/visual-design/2021-lunar-new-year-banner.png"><img src="/img/optimized/2021-lunar-new-year-banner.png"></a>
+    <p class="post-image-caption">2021 農曆春節專題封面視覺設計</p><br>
+</div>
+
+<div class="post-image">
+    <a href="/img/visual-design/aws-digital-transformation.png"><img src="/img/optimized/aws-digital-transformation.png"></a>
+    <p class="post-image-caption">
+        <a href="https://www.thenewslens.com/feature/aws-2020-tldg/144005" ref="nofollow" target="_blank">AWS數位轉型思維解說圖解</a>
+    </p><br>
+</div>
+
+<div class="post-image">
+    <a href="/img/visual-design/tmnewa-insurance-for-dummies.png"><img src="/img/optimized/tmnewa-insurance-for-dummies.png"></a>
+    <p class="post-image-caption">
+        <a href="https://www.thenewslens.com/article/136379" ref="nofollow" target="_blank">新安東京海上產險市調解說圖解</a>
+    </p><br>
+</div>
+
+<div class="post-image">
+    <a href="/img/visual-design/franklin-esg.png"><img src="/img/optimized/franklin-esg.png"></a>
+    <p class="post-image-caption">
+        <a href="https://www.thenewslens.com/article/147690" ref="nofollow" target="_blank">富蘭克林坦伯頓全球氣候變遷基金解說圖解</a>
+    </p><br>
+</div>
+
+<div class="post-image">
+    <a href="/img/visual-design/fami-eco-friendly.jpg"><img src="/img/optimized/fami-eco-friendly.jpg"></a>
+    <p class="post-image-caption">
+        <a href="https://www.thenewslens.com/article/140182" ref="nofollow" target="_blank">全家友善時光機制拯救全球剩食問題解說圖解</a>
+    </p><br>
+</div>
+
+<h1 class="post-paragraph" id="drawing_projects"><a href="#drawing_projects">Drawing Projects</a></h1>
+
+<div class="post-image post-image--split">
+    <a href="/img/drawing-projects/chimei-r6-one-pic-deputation.jpg"><img src="/img/optimized/chimei-r6-one-pic-deputation.jpg"></a>
+    <a href="/img/drawing-projects/audio-technica-one-pic-deputation.png"><img src="/img/optimized/audio-technica-one-pic-deputation.png"></a>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="/img/drawing-projects/gogoro-one-pic-deputation.jpg"><img src="/img/optimized/gogoro-one-pic-deputation.jpg"></a>
+    <a href="/img/drawing-projects/livingplus-fan-one-pic.jpg"><img src="/img/optimized/livingplus-fan-one-pic.jpg"></a>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="/img/drawing-projects/zenbook-flip-s-one-pic.png"><img src="/img/optimized/zenbook-flip-s-one-pic.png"></a>
+    <a href="/img/drawing-projects/san-disk-one-pic.jpg"><img src="/img/optimized/san-disk-one-pic.jpg"></a>
+
+</div>
+
+<div class="post-image post-image--split">
+    <a href="/img/drawing-projects/i-ride-one-pic.jpg"><img src="/img/optimized/i-ride-one-pic.jpg"></a>
+    <a href="/img/drawing-projects/trend-micro-pc-cillin-one-pic.jpg"><img src="/img/optimized/trend-micro-pc-cillin-one-pic.jpg"></a>
+</div>
+
 <h1 class="post-paragraph" id="storyboard"><a href="#storyboard">Storyboard</a></h1>
 
 <div class="post-image">
@@ -48,57 +106,61 @@ location: Taipei, Taiwan
 
 <h1 class="post-paragraph" id="motion_graphic"><a href="#motion_graphic">Motion Graphic</a></h1>
 
+<div class="post-image">
+    <a href="https://www.youtube-nocookie.com/embed/Xpv0Y9L58ks"><img src="/img/optimized/preview/ckmates.png" alt="銓鍇國際CKmates"></a>
+    <p class="post-image-caption">銓鍇國際CKmates</p><br>
+</div>
+
 <div class="post-image post-image--split">
-    <a href="https://drive.google.com/file/d/1_Bx3fnLgjy-97d_VJENwWFpugdqep3Gf/preview"><img src="/img/optimized/preview/explain-hire-and-contract.jpg" alt="圖解僱傭"></a>
-    <a href="https://drive.google.com/file/d/1Ve7G9LN-lC5GHYF9wIynMxuC8ek--MTQ/preview"><img src="/img/optimized/preview/year-of-the-dog.png" alt="狗年大吉"></a>
+    <a href="https://www.youtube-nocookie.com/embed/o_KXmHbMOn0"><img src="/img/optimized/preview/explain-hire-and-contract.jpg" alt="圖解僱傭"></a>
+    <a href="https://www.youtube-nocookie.com/embed/5dw324T6nt4"><img src="/img/optimized/preview/year-of-the-dog.png" alt="狗年大吉"></a>
     <p class="post-image-caption">圖解僱傭｜狗年大吉</p><br>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="https://drive.google.com/file/d/1IRibVPCfZ1Pqx3FRsDSdo2gUOKa7WTqI/preview"><img src="/img/optimized/preview/DIY-food-waste.jpg" alt="DIY-廚餘"></a>
-    <a href="https://drive.google.com/file/d/1h7JeyRAyrZdq8vX3LTCxTPPpbnPqCqPS/preview"><img src="/img/optimized/preview/DIY-dry-flower.jpg" alt="DIY-乾燥花"></a>
+    <a href="https://www.youtube-nocookie.com/embed/KyYaEPWGatA"><img src="/img/optimized/preview/DIY-food-waste.jpg" alt="DIY-廚餘"></a>
+    <a href="https://www.youtube-nocookie.com/embed/Xu4t-XGjjVE"><img src="/img/optimized/preview/DIY-dry-flower.jpg" alt="DIY-乾燥花"></a>
     <p class="post-image-caption">DIY-廚餘｜DIY-乾燥花</p><br>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="https://drive.google.com/file/d/1K20w9kPC3-WfHEswMS9O_mu99KC4sSt-/preview"><img src="/img/optimized/preview/DIY-folding-pants.jpg" alt="DIY-摺長褲"></a>
-    <a href="https://drive.google.com/file/d/1kQ7VGSj4mqvQZiTcXuNWdHeH1aUdgld-/preview"><img src="/img/optimized/preview/DIY-hair-coloring.jpg" alt="DIY-染髮劑"></a>
+    <a href="https://www.youtube-nocookie.com/embed/ch9r7mKjUew"><img src="/img/optimized/preview/DIY-folding-pants.jpg" alt="DIY-摺長褲"></a>
+    <a href="https://www.youtube-nocookie.com/embed/sY82ctPFWl8"><img src="/img/optimized/preview/DIY-hair-coloring.jpg" alt="DIY-染髮劑"></a>
     <p class="post-image-caption">DIY-摺長褲｜DIY-染髮劑</p><br>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="https://drive.google.com/file/d/11KvmfZNuW-vhfLCfSq1Yn8lLR9yDj5H8/preview"><img src="/img/optimized/preview/pay-respect-to-cat.jpg" alt="祭貓文"></a>
-    <a href="https://drive.google.com/file/d/1QwEo1OpoVU13hFwsu9SaFkoTwcil2xjI/preview"><img src="/img/optimized/preview/grandpa-and-cat.jpg" alt="老爺爺與貓"></a>
+    <a href="https://www.youtube-nocookie.com/embed/DYmhrMQXCKE"><img src="/img/optimized/preview/pay-respect-to-cat.jpg" alt="祭貓文"></a>
+    <a href="https://www.youtube-nocookie.com/embed/Mck3oYVFgUc"><img src="/img/optimized/preview/grandpa-and-cat.jpg" alt="老爺爺與貓"></a>
     <p class="post-image-caption">祭貓文｜老爺爺與貓</p><br>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="https://drive.google.com/file/d/1yZ2ag2V_OlYlP8gJtrhfwUD6DfE_Jk-_/preview"><img src="/img/optimized/preview/street-cat.png" alt="浪貓故事"></a>
-    <a href="https://drive.google.com/file/d/18fYfyzBT-bmFrpgkWed2vEhyeDVCdMWV/preview"><img src="/img/optimized/preview/kapu-cat.jpg" alt="卡布喵"></a>
+    <a href="https://www.youtube-nocookie.com/embed/omK65qfn-Ec"><img src="/img/optimized/preview/street-cat.png" alt="浪貓故事"></a>
+    <a href="https://www.youtube-nocookie.com/embed/o-KW1djGlRU"><img src="/img/optimized/preview/kapu-cat.jpg" alt="卡布喵"></a>
     <p class="post-image-caption">浪貓故事｜卡布喵</p><br>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="https://drive.google.com/file/d/15Hmpz5K1Mhzbk5eS9w37rU58VeqOKjFC/preview"><img src="/img/optimized/preview/noodle.jpg" alt="一碗麵"></a>
-    <a href="https://drive.google.com/file/d/1NU2gPnDkwsVarmZlQS9zeUHc50Hqpm5d/preview"><img src="/img/optimized/preview/song-kun.png" alt="宋坤傳藝"></a>
+    <a href="https://www.youtube-nocookie.com/embed/_J38ky5RST8"><img src="/img/optimized/preview/noodle.jpg" alt="一碗麵"></a>
+    <a href="https://www.youtube-nocookie.com/embed/K1BBlES_9XM"><img src="/img/optimized/preview/song-kun.png" alt="宋坤傳藝"></a>
     <p class="post-image-caption">一碗麵｜宋坤傳藝</p><br>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="https://drive.google.com/file/d/1pH0fI_Ar2tqsCYehTZs-DoQc1hYaO4yE/preview"><img src="/img/optimized/preview/ching-ming-cold-food.png" alt="清明寒食"></a>
-    <a href="https://drive.google.com/file/d/1KzG53wkJicUcQockH9Et4tzGnlUFE7HU/preview"><img src="/img/optimized/preview/ching-ming-dating.png" alt="古人清明約會趣"></a>
+    <a href="https://www.youtube-nocookie.com/embed/OrK_JQgfqsI"><img src="/img/optimized/preview/ching-ming-cold-food.png" alt="清明寒食"></a>
+    <a href="https://www.youtube-nocookie.com/embed/D0CrQtZqG28"><img src="/img/optimized/preview/ching-ming-dating.png" alt="古人清明約會趣"></a>
     <p class="post-image-caption">清明寒食｜古人清明約會趣</p><br>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="https://drive.google.com/file/d/1fQLwia4laYb-QUm9ZJjklYpfRPEWBIl-/preview"><img src="/img/optimized/preview/bravo-taekwondo.png" alt="「熊讚運動教室」- 跆拳道篇"></a>
-    <a href="https://drive.google.com/file/d/1dha1a4w0plg8UUgYjTCrVpvDx_Le6gis/preview"><img src="/img/optimized/preview/bravo-judo.png" alt="「熊讚運動教室」- 柔道篇"></a>
+    <a href="https://www.youtube-nocookie.com/embed/RGdMKenm-98"><img src="/img/optimized/preview/bravo-taekwondo.png" alt="「熊讚運動教室」- 跆拳道篇"></a>
+    <a href="https://www.youtube-nocookie.com/embed/QyPYWVeOGb8"><img src="/img/optimized/preview/bravo-judo.png" alt="「熊讚運動教室」- 柔道篇"></a>
     <p class="post-image-caption">「熊讚運動教室」- 跆拳道篇｜「熊讚運動教室」- 柔道篇</p><br>
 </div>
-
 <div class="post-image post-image--split">
-    <a href="https://drive.google.com/file/d/16mmquedMGZdCIFF8s3gjfFjc32sQ91uY/preview"><img src="/img/optimized/preview/bravo-basketball.png" alt="「熊讚運動教室」- 籃球篇"></a>
-    <a href="https://drive.google.com/file/d/1XSLExEUu0VuntHH0a710PoZY-OO_74jy/preview"><img src="/img/optimized/preview/bravo-soccer.png" alt="「熊讚運動教室」- 足球篇"></a>
+    <a href="https://www.youtube-nocookie.com/embed/Cf1HrqHawnc"><img src="/img/optimized/preview/bravo-basketball.png" alt="「熊讚運動教室」- 籃球篇"></a>
+    <a href="https://www.youtube-nocookie.com/embed/aU8SHDKD-Yk"><img src="/img/optimized/preview/bravo-soccer.png" alt="「熊讚運動教室」- 足球篇"></a>
     <p class="post-image-caption">「熊讚運動教室」- 籃球篇｜「熊讚運動教室」- 足球篇</p><br>
 </div>
 
