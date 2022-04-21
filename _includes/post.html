@@ -1,7 +1,7 @@
 <article class="post">
     <header>
         <h1 class="post-title">
-            <a href="{{ include.post.url | prepend: site.baseurl }}">
+            <a href="{{ prepend: site.baseurl }}">
                 {{ include.post.title }}
             </a>
         </h1>
@@ -12,6 +12,7 @@
         {{ include.content }}
     </div>
     <footer class="post-footer">
-        {% if include.post.location %}<a href="https://www.google.com/maps/search/{{ include.post.location }}" target="_blank" class="post-footer-location">{{ include.post.location }}</a>{% endif %}
+        {% if include.post.location %}<a href="https://www.google.com/maps/search/{{ include.post.location }}"
+            target="_blank" class="post-footer-location">{{ include.post.location }}</a>{% endif %}
     </footer>
 </article>

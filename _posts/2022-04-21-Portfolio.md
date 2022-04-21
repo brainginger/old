@@ -107,8 +107,40 @@ location: Taipei, Taiwan
 <h1 class="post-paragraph" id="motion_graphic"><a href="#motion_graphic">Motion Graphic</a></h1>
 
 <div class="post-image">
-    <a href="https://www.youtube-nocookie.com/embed/Xpv0Y9L58ks"><img src="/img/optimized/preview/ckmates.png" alt="銓鍇國際CKmates"></a>
-    <p class="post-image-caption">銓鍇國際CKmates</p><br>
+    <a href="https://www.youtube-nocookie.com/embed/eO15cOKVzFY"><img src="/img/optimized/preview/lexus.png" alt="力拚碳中和，豪華車品牌打造動能新篇章！LEXUS ELECTRIFIED有哪些電動化組合？"></a>
+    <p class="post-image-caption">
+        <a href="https://www.inside.com.tw/article/25431-lexus-electrified-animation" ref="nofollow" target="_blank">
+            力拚碳中和，豪華車品牌打造動能新篇章！LEXUS ELECTRIFIED有哪些電動化組合？
+        </a>
+    </p>
+</div>
+
+<div class="post-image">
+    <a href="https://www.youtube-nocookie.com/embed/G5XG97OnE_U"><img src="/img/optimized/preview/darlie.jpeg" alt="你的牙膏能幫助去漬嗎？比刷牙更重要的事是選對牙膏！"></a>
+    <p class="post-image-caption">
+        <a href="https://www.thenewslens.com/article/150867" ref="nofollow" target="_blank">
+            你的牙膏能幫助去漬嗎？比刷牙更重要的事是選對牙膏！
+        </a>
+    </p>
+</div>
+
+<div class="post-image">
+    <a href="https://www.youtube-nocookie.com/embed/eXK_geCW-2o"><img src="/img/optimized/preview/farmina.jpeg" alt="為什麼毛小孩這麼愛吃法米納？獨特四道關鍵生產程序打造新鮮美味"></a>
+    <p class="post-image-caption">
+        <a href="https://www.cool3c.com/article/175791" ref="nofollow" target="_blank">
+            為什麼毛小孩這麼愛吃法米納？獨特四道關鍵生產程序打造新鮮美味
+        </a>
+    </p>
+</div>
+
+<div class="post-image">
+    <a href="https://www.youtube-nocookie.com/embed/Xpv0Y9L58ks"><img src="/img/optimized/preview/ckmates.png" alt="還在數位轉型陣痛期？混合雲一條龍服務，協助企業全面數據化"></a>
+    <p class="post-image-caption">
+        <a href="https://www.thenewslens.com/feature/ckmates/140625" ref="nofollow" target="_blank">
+            還在數位轉型陣痛期？混合雲一條龍服務，協助企業全面數據化
+        </a>
+    </p>
+    <!-- <br> -->
 </div>
 
 <div class="post-image post-image--split">
