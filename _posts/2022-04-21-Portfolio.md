@@ -5,13 +5,13 @@ location: Taipei, Taiwan
 ---
 
 <h1 class="post-paragraph" id="digital_drawing"><a href="#digital_drawing">Digital Drawing</a></h1>
-
-<div class="post-image">
-    <a href="/img/digital-drawing/all-my-family-is-ghost.jpg"><img src="/img/optimized/all-my-family-is-ghost.jpg"></a>
-</div>
+<div class="digital_drawing">
+    <div class="post-image">
+        <a href="/img/digital-drawing/all-my-family-is-ghost.jpg"><img src="/img/optimized/all-my-family-is-ghost.jpg"></a>
+    </div>
 
 <div class="post-image post-image--split">
-    <a href="/img/digital-drawing/happy-4rd-anniversary.jpg"><img src="/img/optimized/happy-4rd-anniversary.jpg"></a>
+    <a href="/img/digital-drawing/wo.jpg"><img src="/img/optimized/wo.jpg"></a>
     <a href="/img/digital-drawing/3-birds.jpg"><img src="/img/optimized/3-birds.jpg"></a>
 </div>
 
@@ -20,88 +20,100 @@ location: Taipei, Taiwan
     <a href="/img/digital-drawing/leon.jpg"><img src="/img/optimized/leon.jpg"></a>
 </div>
 
-<div class="post-image post-image--split">
-    <a href="/img/digital-drawing/ode.jpg"><img src="/img/optimized/ode.jpg"></a>
-    <a href="/img/digital-drawing/back.jpg"><img src="/img/digital-drawing/back.jpg"></a>
-</div>
-
-<div class="post-image post-image--split">
-    <a href="/img/digital-drawing/poche-rudy.jpg"><img src="/img/optimized/poche-rudy.jpg"></a>
-    <a href="/img/digital-drawing/wo.jpg"><img src="/img/optimized/wo.jpg"></a>
-</div>
-
 <h1 class="post-paragraph" id="visual_design"><a href="#visual_design">Visual Design</a></h1>
 
-<div class="post-image">
-    <a href="/img/visual-design/2021-lunar-new-year-banner.png"><img src="/img/optimized/2021-lunar-new-year-banner.png"></a>
-    <p class="post-image-caption">2021 農曆春節專題封面視覺設計</p><br>
-</div>
-
-<div class="post-image">
-    <a href="/img/visual-design/aws-digital-transformation.png"><img src="/img/optimized/aws-digital-transformation.png"></a>
+<div class="post-image post-image--split">
+    <a href="/img/visual-design/sdgs.png"><img src="/img/optimized/sdgs.png"></a>
+    <a href="/img/visual-design/photoshop.png"><img src="/img/optimized/photoshop.png"></a>
     <p class="post-image-caption">
-        <a href="https://www.thenewslens.com/feature/aws-2020-tldg/144005" ref="nofollow" target="_blank">AWS數位轉型思維解說圖解</a>
+        <a href="https://www.thenewslens.com/feature/sdgs/156814" ref="nofollow" target="_blank">SDGs合作專案</a>
+        ｜
+        <a href="https://www.thenewslens.com/feature/adobe-photoshop/170788" ref="nofollow" target="_blank">Adobe合作專案</a>
     </p><br>
 </div>
 
-<div class="post-image">
-    <a href="/img/visual-design/tmnewa-insurance-for-dummies.png"><img src="/img/optimized/tmnewa-insurance-for-dummies.png"></a>
-    <p class="post-image-caption">
-        <a href="https://www.thenewslens.com/article/136379" ref="nofollow" target="_blank">新安東京海上產險市調解說圖解</a>
-    </p><br>
-</div>
-
-<div class="post-image">
+<div class="post-image post-image--split">
     <a href="/img/visual-design/franklin-esg.png"><img src="/img/optimized/franklin-esg.png"></a>
-    <p class="post-image-caption">
-        <a href="https://www.thenewslens.com/article/147690" ref="nofollow" target="_blank">富蘭克林坦伯頓全球氣候變遷基金解說圖解</a>
-    </p><br>
-</div>
-
-<div class="post-image">
     <a href="/img/visual-design/fami-eco-friendly.jpg"><img src="/img/optimized/fami-eco-friendly.jpg"></a>
     <p class="post-image-caption">
-        <a href="https://www.thenewslens.com/article/140182" ref="nofollow" target="_blank">全家友善時光機制拯救全球剩食問題解說圖解</a>
+        <a href="https://www.thenewslens.com/article/147690" ref="nofollow" target="_blank">富蘭克林合作專案</a>
+        ｜
+        <a href="https://www.thenewslens.com/article/140182" ref="nofollow" target="_blank">全家合作專案</a>
+    </p><br>
+</div>
+
+<div class="post-image  post-image--split">
+    <a href="/img/visual-design/aws-digital-transformation.png"><img src="/img/optimized/aws-digital-transformation.png"></a>
+    <a href="/img/visual-design/invest_ai.png"><img src="/img/optimized/invest_ai.png"></a>
+    <p class="post-image-caption">
+        <a href="https://www.thenewslens.com/feature/aws-2020-tldg/144005" ref="nofollow" target="_blank">AWS合作專案</a>
+        ｜
+        <a href="https://www.cool3c.com/article/175331" ref="nofollow" target="_blank">安聯投信合作專案</a>
+    </p><br>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="/img/visual-design/tmnewa-insurance-for-dummies.png"><img src="/img/optimized/tmnewa-insurance-for-dummies.png"></a>
+    <a href="/img/visual-design/lcyef.png"><img src="/img/optimized/lcyef.png"></a>
+    <p class="post-image-caption">
+        <a href="https://www.thenewslens.com/article/136379" ref="nofollow" target="_blank">新安東京合作專案</a>
+        ｜
+        <a href="https://www.thenewslens.com/article/150808" ref="nofollow" target="_blank">理長榮基金會合作專案</a>
+    </p><br>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="/img/visual-design/toyota.png"><img src="/img/optimized/toyota.png"></a>
+    <a href="/img/visual-design/balvenie.png"><img src="/img/optimized/balvenie.png"></a>
+    <p class="post-image-caption">
+        <a href="https://www.thenewslens.com/article/154497" ref="nofollow" target="_blank">TOYOTA合作專案</a>
+        ｜
+        <a href="https://www.thenewslens.com/article/152389" ref="nofollow" target="_blank">百富合作專案</a>
     </p><br>
 </div>
 
 <h1 class="post-paragraph" id="drawing_projects"><a href="#drawing_projects">Drawing Projects</a></h1>
 
 <div class="post-image post-image--split">
-    <a href="/img/drawing-projects/chimei-r6-one-pic-deputation.jpg"><img src="/img/optimized/chimei-r6-one-pic-deputation.jpg"></a>
-    <a href="/img/drawing-projects/audio-technica-one-pic-deputation.png"><img src="/img/optimized/audio-technica-one-pic-deputation.png"></a>
+    <a href="/img/drawing-projects/intel_11th.png"><img src="/img/optimized/intel_11th.png"></a>
+    <a href="/img/drawing-projects/aorus.png"><img src="/img/optimized/aorus.png"></a>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="/img/drawing-projects/gogoro-one-pic-deputation.jpg"><img src="/img/optimized/gogoro-one-pic-deputation.jpg"></a>
-    <a href="/img/drawing-projects/livingplus-fan-one-pic.jpg"><img src="/img/optimized/livingplus-fan-one-pic.jpg"></a>
+    <a href="/img/drawing-projects/intel_12th.png"><img src="/img/optimized/intel_12th.png"></a>
+    <a href="/img/drawing-projects/tccf.png"><img src="/img/optimized/tccf.png"></a>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="/img/drawing-projects/zenbook-flip-s-one-pic.png"><img src="/img/optimized/zenbook-flip-s-one-pic.png"></a>
-    <a href="/img/drawing-projects/san-disk-one-pic.jpg"><img src="/img/optimized/san-disk-one-pic.jpg"></a>
-
+    <a href="/img/drawing-projects/afa.png"><img src="/img/optimized/afa.png"></a>
+    <a href="/img/drawing-projects/firstbank.png"><img src="/img/optimized/firstbank.png"></a>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="/img/drawing-projects/i-ride-one-pic.jpg"><img src="/img/optimized/i-ride-one-pic.jpg"></a>
-    <a href="/img/drawing-projects/trend-micro-pc-cillin-one-pic.jpg"><img src="/img/optimized/trend-micro-pc-cillin-one-pic.jpg"></a>
+    <a href="/img/drawing-projects/switcheasy.png"><img src="/img/optimized/switcheasy.png"></a>
+    <a href="/img/drawing-projects/ath.png"><img src="/img/optimized/ath.png"></a>
 </div>
 
-<h1 class="post-paragraph" id="storyboard"><a href="#storyboard">Storyboard</a></h1>
+<h1 class="post-paragraph" id="banners"><a href="#banners">Banner</a></h1>
 
-<div class="post-image">
-    <a href="/img/storyboard/explain-hire-and-contract.jpg"><img src="/img/optimized/explain-hire-and-contract.jpg"></a>
+<div class="post-image post-image--split">
+    <a href="/img/banner/awoo.png"><img src="/img/optimized/awoo.png"></a>
+    <a href="/img/banner/dawho_night.png"><img src="/img/optimized/dawho_night.png"></a>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="/img/storyboard/kapu-cat.jpg"><img src="/img/optimized/kapu-cat.jpg"></a>
-    <a href="/img/storyboard/dad's-cat-lover.jpg"><img src="/img/optimized/dad's-cat-lover.jpg"></a>
+    <a href="/img/banner/sdgs_heat.png"><img src="/img/optimized/sdgs_heat.png"></a>
+    <a href="/img/banner/chipolin.png"><img src="/img/optimized/chipolin.png"></a>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="/img/storyboard/pay-respect-to-cat.jpg"><img src="/img/optimized/pay-respect-to-cat.jpg"></a>
-    <a href="/img/storyboard/grandpa-and-cat.jpg"><img src="/img/optimized/grandpa-and-cat.jpg"></a>
+    <a href="/img/banner/rakuya.png"><img src="/img/optimized/rakuya.png"></a>
+    <a href="/img/banner/aws_download.png"><img src="/img/optimized/aws_download.png"></a>
+</div>
+
+<div class="post-image post-image--split">
+    <a href="/img/banner/iii_cross.png"><img src="/img/optimized/iii_cross.png"></a>
+    <a href="/img/banner/sdgs_banner.png"><img src="/img/optimized/sdgs_banner.png"></a>
 </div>
 
 <h1 class="post-paragraph" id="motion_graphic"><a href="#motion_graphic">Motion Graphic</a></h1>
@@ -125,10 +137,10 @@ location: Taipei, Taiwan
 </div>
 
 <div class="post-image">
-    <a href="https://www.youtube-nocookie.com/embed/eXK_geCW-2o"><img src="/img/optimized/preview/farmina.jpeg" alt="為什麼毛小孩這麼愛吃法米納？獨特四道關鍵生產程序打造新鮮美味"></a>
+    <a href="https://www.youtube-nocookie.com/embed/qdATzb0r3sg"><img src="/img/optimized/preview/familymart_40.png" alt="帶你探索全家便利商店代表性的40件好"></a>
     <p class="post-image-caption">
-        <a href="https://www.cool3c.com/article/175791" ref="nofollow" target="_blank">
-            為什麼毛小孩這麼愛吃法米納？獨特四道關鍵生產程序打造新鮮美味
+        <a href="https://www.thenewslens.com/feature/familymart/165086" ref="nofollow" target="_blank">
+            帶你探索全家便利商店代表性的40件好事
         </a>
     </p>
 </div>
@@ -140,7 +152,15 @@ location: Taipei, Taiwan
             還在數位轉型陣痛期？混合雲一條龍服務，協助企業全面數據化
         </a>
     </p>
-    <!-- <br> -->
+</div>
+
+<div class="post-image">
+    <a href="https://www.youtube-nocookie.com/embed/eXK_geCW-2o"><img src="/img/optimized/preview/farmina.jpeg" alt="為什麼毛小孩這麼愛吃法米納？獨特四道關鍵生產程序打造新鮮美味"></a>
+    <p class="post-image-caption">
+        <a href="https://www.cool3c.com/article/175791" ref="nofollow" target="_blank">
+            為什麼毛小孩這麼愛吃法米納？獨特四道關鍵生產程序打造新鮮美味
+        </a>
+    </p>
 </div>
 
 <div class="post-image post-image--split">
@@ -196,45 +216,22 @@ location: Taipei, Taiwan
     <p class="post-image-caption">「熊讚運動教室」- 籃球篇｜「熊讚運動教室」- 足球篇</p><br>
 </div>
 
-<h1 class="post-paragraph" id="project"><a href="#project">Project</a></h1>
+<h1 class="post-paragraph" id="storyboard"><a href="#storyboard">Storyboard</a></h1>
 
 <div class="post-image">
-    <a href="/img/project/cat.jpg"><img src="/img/optimized/cat.jpg"></a>
-</div>
-
-<div class="post-image">
-    <a href="/img/project/cat-wall-side.jpg"><img src="/img/optimized/cat-wall-side.jpg"></a>
+    <a href="/img/storyboard/lexus_storyboard.png"><img src="/img/optimized/lexus_storyboard.png"></a>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="/img/project/cat-hospital-clinic.jpg"><img src="/img/optimized/cat-hospital-clinic.jpg"></a>
-    <a href="/img/project/cat-hospital-front.jpg"><img src="/img/optimized/cat-hospital-front.jpg"></a>
+    <a href="/img/storyboard/kapu-cat.jpg"><img src="/img/optimized/kapu-cat.jpg"></a>
+    <a href="/img/storyboard/dad's-cat-lover.jpg"><img src="/img/optimized/dad's-cat-lover.jpg"></a>
 </div>
 
 <div class="post-image post-image--split">
-    <a href="/img/project/cat-hospital-blood-transfusion.jpg"><img src="/img/optimized/cat-hospital-blood-transfusion.jpg"></a>
-    <a href="/img/project/cat-wall-front.jpg"><img src="/img/optimized/cat-wall-front.jpg"></a>
+    <a href="/img/storyboard/pay-respect-to-cat.jpg"><img src="/img/optimized/pay-respect-to-cat.jpg"></a>
+    <a href="/img/storyboard/grandpa-and-cat.jpg"><img src="/img/optimized/grandpa-and-cat.jpg"></a>
 </div>
 
-<div class="post-image post-image--split">
-    <a href="/img/project/street-1.jpg"><img src="/img/optimized/street-1.jpg"></a>
-    <a href="/img/project/street-7.jpg"><img src="/img/optimized/street-7.jpg"></a>
-</div>
-
-<div class="post-image post-image--split">
-    <a href="/img/project/street-lamp.jpg"><img src="/img/optimized/street-lamp.jpg"></a>
-    <a href="/img/project/alley-park.jpg"><img src="/img/optimized/alley-park.jpg"></a>
-</div>
-
-<div class="post-image post-image--split">
-    <a href="/img/project/belgrade.jpg"><img src="/img/optimized/belgrade.jpg"></a>
-    <a href="/img/project/china-shenzhen.jpg"><img src="/img/optimized/china-shenzhen.jpg"></a>
-</div>
-
-<div class="post-image post-image--split">
-    <a href="/img/project/thai-bangkok.jpg"><img src="/img/optimized/thai-bangkok.jpg"></a>
-    <a href="/img/project/vegetable.jpg"><img src="/img/optimized/vegetable.jpg"></a>
-</div>
 
 <h1 class="post-paragraph" id="photography"><a href="#photography">Photography</a></h1>
 
