@@ -87,7 +87,7 @@
 
     .post-body {
         p {
-            text-align: justify;
+            text-align: center;
             line-height: $post-line-height;
             margin-bottom: 25px;
         }
@@ -180,6 +180,7 @@
 
         // Re-set the font size as parent is set to zero
         font-size: $base-font-size;
+        font-weight: bold;
 
         // Override properties meant for article content paragraphs
         margin-bottom: 0 !important;
