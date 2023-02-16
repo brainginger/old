@@ -46,4 +46,5 @@ sass:
 
 exclude: [Gemfile, Gemfile.lock, vendor, CNAME, LICENSE, Rakefile]
 
+# Gems
 gems: [jekyll-paginate]
