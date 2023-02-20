@@ -25,7 +25,7 @@ $legal-color: #818181;
 $layout-width: 750px;
 
 // Breakpoints
-$desktop-breakpoint: calc($layout-width / 0.9);
+$desktop-breakpoint: $layout-width / 0.9;
 $image-splitting-breakpoint: 510px;
 
 // Banner

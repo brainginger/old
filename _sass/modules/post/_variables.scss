@@ -8,9 +8,9 @@ $post-title-max-font-size: 36px;
 // 5 vertical widths, that is, when the browser width is 20 times 24px
 // (note the calculation is done in reverse to remind us that we are using
 // a value of 5%, or 0.05)
-$post-title-medium-breakpoint: calc($post-title-min-font-size / 0.05);
+$post-title-medium-breakpoint: $post-title-min-font-size / 0.05;
 
 $post-image-split-max-width: 365px;
 $post-image-split-gutter: 20px;
-$post-image-split-width: calc(50% - #{$post-image-split-gutter});
+$post-image-split-width: unquote("50% - #{$post-image-split-gutter}");
 $post-image-caption-line-height: $post-line-height;
