@@ -89,7 +89,8 @@
         p {
             text-align: center;
             line-height: $post-line-height;
-            margin-bottom: 25px;
+            margin: 0;;
+            margin-bottom: 6px;
         }
     }
 
@@ -172,7 +173,7 @@
     }
 
     .post-image-caption {
-        margin-top: 25px;
+        margin-top: 25px !important;
         color: $caption-text-color;
         font-family: $caption-font-family;
         line-height: $post-image-caption-line-height;
@@ -203,7 +204,7 @@
 
             &::after {
                 // Reset a reasonable top margin in absence of the abnormally tall typekit font line-height
-                margin-top: 25px;
+                margin-top: 25px !important;
             }
         }
     }
