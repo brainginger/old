@@ -172,6 +172,13 @@
         }
     }
 
+    // Override the paragraph color for post image captions to default hyperlink color
+    .post-image-caption p,
+    .post-image-caption a
+    {
+        color: blue !important;
+    }
+
     .post-image-caption {
         margin-top: 25px !important;
         color: $caption-text-color;

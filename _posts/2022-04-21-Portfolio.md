@@ -2,7 +2,7 @@
 layout: post
 title: "Ginger's portfolio"
 location: Taipei, Taiwan
-date: 2023-02-16 13:00:00 +0800
+date: 2023-06-01 00:00:00 +0800
 ---
 
 <!-- markdownlint-configure-file {"no-inline-html": false} -->
@@ -21,7 +21,6 @@ date: 2023-02-16 13:00:00 +0800
     </p>
 </div>
 
-<!-- TODO: banner 挑4張不同產業 -->
 <div class="banner">
     <h1 class="post-paragraph" id="banner"><a href="#banner">Banner</a></h1>
     <div class="post-image post-image--split">
@@ -42,12 +41,15 @@ date: 2023-02-16 13:00:00 +0800
     </div>
 </div>
 
-<!-- TODO: 圖解_盡量秀出精華 -->
 <div class="visual_design">
     <h1 class="post-paragraph" id="visual_design"><a href="#visual_design">Visual Design</a></h1>
     <div class="post-image post-image--split">
-        <a href="/img/visual-design/sdgs.png"><img src="/img/optimized/sdgs.png"></a>
-        <a href="/img/visual-design/photoshop.png"><img src="/img/optimized/photoshop.png"></a>
+        <a href="https://www.thenewslens.com/feature/sdgs/156814" ref="nofollow" target="_blank">
+            <img src="/img/optimized/sdgs.png">
+        </a>
+        <a href="https://www.thenewslens.com/feature/adobe-photoshop/170788" ref="nofollow" target="_blank">
+            <img src="/img/optimized/photoshop.png">
+        </a>
         <p class="post-image-caption">
             <a href="https://www.thenewslens.com/feature/sdgs/156814" ref="nofollow" target="_blank">SDGs合作專案</a>
             ｜
@@ -55,8 +57,8 @@ date: 2023-02-16 13:00:00 +0800
         </p><br>
     </div>
     <div class="post-image post-image--split">
-        <a href="/img/visual-design/franklin-esg.png"><img src="/img/optimized/franklin-esg.png"></a>
-        <a href="/img/visual-design/fami-eco-friendly.jpg"><img src="/img/optimized/fami-eco-friendly.jpg"></a>
+        <a href="https://www.thenewslens.com/article/147690" ref="nofollow" target="_blank"><img src="/img/optimized/franklin-esg.png"></a>
+        <a href="https://www.thenewslens.com/article/140182" ref="nofollow" target="_blank"><img src="/img/optimized/fami-eco-friendly.jpg"></a>
         <p class="post-image-caption">
             <a href="https://www.thenewslens.com/article/147690" ref="nofollow" target="_blank">富蘭克林合作專案</a>
             ｜
@@ -64,8 +66,8 @@ date: 2023-02-16 13:00:00 +0800
         </p><br>
     </div>
     <div class="post-image  post-image--split">
-        <a href="/img/visual-design/aws-digital-transformation.png"><img src="/img/optimized/aws-digital-transformation.png"></a>
-        <a href="/img/visual-design/invest_ai.png"><img src="/img/optimized/invest_ai.png"></a>
+        <a href="https://www.thenewslens.com/feature/aws-2020-tldg/144005" ref="nofollow" target="_blank"><img src="/img/optimized/aws-digital-transformation.png"></a>
+        <a href="https://www.cool3c.com/article/175331" ref="nofollow" target="_blank"><img src="/img/optimized/invest_ai.png"></a>
         <p class="post-image-caption">
             <a href="https://www.thenewslens.com/feature/aws-2020-tldg/144005" ref="nofollow" target="_blank">AWS合作專案</a>
             ｜
@@ -73,8 +75,8 @@ date: 2023-02-16 13:00:00 +0800
         </p><br>
     </div>
     <div class="post-image post-image--split">
-        <a href="/img/visual-design/tmnewa-insurance-for-dummies.png"><img src="/img/optimized/tmnewa-insurance-for-dummies.png"></a>
-        <a href="/img/visual-design/lcyef.png"><img src="/img/optimized/lcyef.png"></a>
+        <a href="https://www.thenewslens.com/article/136379" ref="nofollow" target="_blank"><img src="/img/optimized/tmnewa-insurance-for-dummies.png"></a>
+        <a href="https://www.thenewslens.com/article/150808" ref="nofollow" target="_blank"><img src="/img/optimized/lcyef.png"></a>
         <p class="post-image-caption">
             <a href="https://www.thenewslens.com/article/136379" ref="nofollow" target="_blank">新安東京合作專案</a>
             ｜
@@ -82,8 +84,8 @@ date: 2023-02-16 13:00:00 +0800
         </p><br>
     </div>
     <div class="post-image post-image--split">
-        <a href="/img/visual-design/toyota.png"><img src="/img/optimized/toyota.png"></a>
-        <a href="/img/visual-design/balvenie.png"><img src="/img/optimized/balvenie.png"></a>
+        <a href="https://www.thenewslens.com/article/154497" ref="nofollow" target="_blank"><img src="/img/optimized/toyota.png"></a>
+        <a href="https://www.thenewslens.com/article/152389" ref="nofollow" target="_blank"><img src="/img/optimized/balvenie.png"></a>
         <p class="post-image-caption">
             <a href="https://www.thenewslens.com/article/154497" ref="nofollow" target="_blank">TOYOTA合作專案</a>
             ｜
@@ -92,7 +94,6 @@ date: 2023-02-16 13:00:00 +0800
     </div>
 </div>
 
-<!-- TODO: 一圖看懂_兩張Intel + 文策院 -->
 <div class="drawing_projects">
     <h1 class="post-paragraph" id="drawing_projects"><a href="#drawing_projects">Drawing Projects</a></h1>
     <div class="post-image post-image--split">
@@ -113,11 +114,12 @@ date: 2023-02-16 13:00:00 +0800
     </div>
 </div>
 
-<!-- TODO: 動畫數量太多要挑一下 -->
 <div class="motion_graphic">
     <h1 class="post-paragraph" id="motion_graphic"><a href="#motion_graphic">Motion Graphic</a></h1>
     <div class="post-image">
-        <a href="https://www.youtube-nocookie.com/embed/eO15cOKVzFY"><img src="/img/optimized/preview/lexus.png" alt="力拚碳中和，豪華車品牌打造動能新篇章！LEXUS ELECTRIFIED有哪些電動化組合？"></a>
+        <a href="https://www.inside.com.tw/article/25431-lexus-electrified-animation" ref="nofollow" target="_blank">
+            <img src="/img/optimized/preview/lexus.png" alt="力拚碳中和，豪華車品牌打造動能新篇章！LEXUS ELECTRIFIED有哪些電動化組合？">
+        </a>
         <p class="post-image-caption">
             <a href="https://www.inside.com.tw/article/25431-lexus-electrified-animation" ref="nofollow" target="_blank">
                 力拚碳中和，豪華車品牌打造動能新篇章！LEXUS ELECTRIFIED有哪些電動化組合？
@@ -125,7 +127,9 @@ date: 2023-02-16 13:00:00 +0800
         </p>
     </div>
     <div class="post-image">
-        <a href="https://www.youtube-nocookie.com/embed/G5XG97OnE_U"><img src="/img/optimized/preview/darlie.jpeg" alt="你的牙膏能幫助去漬嗎？比刷牙更重要的事是選對牙膏！"></a>
+        <a href="https://www.thenewslens.com/article/150867" ref="nofollow" target="_blank">
+            <img src="/img/optimized/preview/darlie.jpeg" alt="你的牙膏能幫助去漬嗎？比刷牙更重要的事是選對牙膏！">
+        </a>
         <p class="post-image-caption">
             <a href="https://www.thenewslens.com/article/150867" ref="nofollow" target="_blank">
                 你的牙膏能幫助去漬嗎？比刷牙更重要的事是選對牙膏！
@@ -133,7 +137,9 @@ date: 2023-02-16 13:00:00 +0800
         </p>
     </div>
     <div class="post-image">
-        <a href="https://www.youtube-nocookie.com/embed/qdATzb0r3sg"><img src="/img/optimized/preview/familymart_40.png" alt="帶你探索全家便利商店代表性的40件好"></a>
+        <a href="https://www.thenewslens.com/feature/familymart/165086" ref="nofollow" target="_blank">
+            <img src="/img/optimized/preview/familymart_40.png" alt="帶你探索全家便利商店代表性的40件好">
+        </a>
         <p class="post-image-caption">
             <a href="https://www.thenewslens.com/feature/familymart/165086" ref="nofollow" target="_blank">
                 帶你探索全家便利商店代表性的40件好事
@@ -141,7 +147,9 @@ date: 2023-02-16 13:00:00 +0800
         </p>
     </div>
     <div class="post-image">
-        <a href="https://www.youtube-nocookie.com/embed/Xpv0Y9L58ks"><img src="/img/optimized/preview/ckmates.png" alt="還在數位轉型陣痛期？混合雲一條龍服務，協助企業全面數據化"></a>
+        <a href="https://www.thenewslens.com/feature/ckmates/140625" ref="nofollow" target="_blank">
+            <img src="/img/optimized/preview/ckmates.png" alt="還在數位轉型陣痛期？混合雲一條龍服務，協助企業全面數據化">
+        </a>
         <p class="post-image-caption">
             <a href="https://www.thenewslens.com/feature/ckmates/140625" ref="nofollow" target="_blank">
                 還在數位轉型陣痛期？混合雲一條龍服務，協助企業全面數據化
@@ -149,7 +157,9 @@ date: 2023-02-16 13:00:00 +0800
         </p>
     </div>
     <div class="post-image">
-        <a href="https://www.youtube-nocookie.com/embed/eXK_geCW-2o"><img src="/img/optimized/preview/farmina.jpeg" alt="為什麼毛小孩這麼愛吃法米納？獨特四道關鍵生產程序打造新鮮美味"></a>
+        <a href="https://www.cool3c.com/article/175791" ref="nofollow" target="_blank">
+            <img src="/img/optimized/preview/farmina.jpeg" alt="為什麼毛小孩這麼愛吃法米納？獨特四道關鍵生產程序打造新鮮美味">
+        </a>
         <p class="post-image-caption">
             <a href="https://www.cool3c.com/article/175791" ref="nofollow" target="_blank">
                 為什麼毛小孩這麼愛吃法米納？獨特四道關鍵生產程序打造新鮮美味
