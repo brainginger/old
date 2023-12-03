@@ -8,13 +8,13 @@
 # Site settings
 title: GINGER
 author: GINGER
-author_link: https://brainginger.github.io
+author_link: https://brainginger.github.io/old
 author_description: ""
 email: landy51223@yahoo.com.tw
 description: > # this means to ignore newlines until "baseurl:"
   Ginger's resume
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://brainginger.github.io/" # the base hostname & protocol for your site
+url: "https://brainginger.github.io/old" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
